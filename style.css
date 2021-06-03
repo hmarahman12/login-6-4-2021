@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login-frist {
+    margin: 70px 74px;
+}
+.login-from {
+    background: #ccc9c985;
+    width: 1000px;
+    height: 450px;
+}
+
+.login {
+    width: 40%;
+    float: left;
+    background: #287fff;
+    color: #fff;
+    line-height: 35px;
+    font-family: sans-serif;
+    height: 320px;
+    margin: 57px 0 0px 113px;
+    border-radius: 15px 0px 0px 15px;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+}
+.login hr {
+    width: 30%;
+    height: 2px;
+    margin: auto 9px;
+    background: #fff;
+}
+p {
+    margin-bottom: 25px;
+}
+span {
+    border: 1px solid #fff;
+    padding: 10px 25px;
+    border-radius: 24px;
+}
+span:hover {
+    background: #fff;
+    color: #287fff;
+    cursor: pointer;
+    border-color: #585252;
+    transition: 0.5s ease;
+}
+.from {
+    width: 40%;
+    float: right;
+    height: 320px;
+    background: #fff;
+    margin: 57px 86px 13px 0px;
+    text-align: center;
+    border-radius: 0px 15px 15px 0;
+}
+.from h1 {
+    margin-top: 30px;
+}
+hr.h11 {
+    width: 45px;
+    text-align: center;
+    margin: 5px auto;
+    background: green;
+    height: 2px;
+}
+input {
+    margin-top: 30px;
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+}
+form hr {
+    width: 50%;
+    text-align: center;
+    margin: auto 102px;
+    height: 1px;
+    background: #ddd;
+}
+button {
+    padding: 8px 84px;
+    font-size: 16px;
+    background: #287fff;
+    color: #fff;
+    border-radius: 20px;
+}
+button:hover {
+    background: none;
+    color: #287fff;
+    border-color: #287fff;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.circle {
+    background: none;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border: 23px solid;
+    border-radius: 100%;
+    margin: -99px 268px;
+}
